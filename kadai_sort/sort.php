@@ -25,7 +25,6 @@
             foreach($nums as $num){
                 echo $num .'<br>';
             }
-
         }
        
         // ソートする配列を宣言
